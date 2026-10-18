@@ -1,0 +1,11 @@
+build/
+*.sublime-workspace
+.DS_Store
+
+# Local setup evidence and original conversation stay on this Mac.
+docs/brief.txt
+docs/VERIFICATION.md
+docs/LOCAL_SETUP.md
+docs/test-results.txt
+docs/installed-window.png
+.publish/

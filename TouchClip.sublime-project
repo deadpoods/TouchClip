@@ -1,0 +1,1 @@
+{"folders":[{"path":".","folder_exclude_patterns":["build"]}],"build_systems":[{"name":"Build TouchClip","shell_cmd":"./build.sh","working_dir":"$project_path"}]}
